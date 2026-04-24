@@ -1,6 +1,14 @@
 # Zenovate Worknest
+Developed by Rushika Datta, Anurup Datta, Mridul Jindal, Anjali K
 
 Zenovate Worknest is a Flutter-based Employee & Intern Management System designed for hackathons and rapid prototyping. It provides a modern, Kanban-style interface for managing users, tasks, attendance, and performance reviews.
+
+## My Contributions
+
+- Improved UI/UX for a clean and responsive interface.  
+- Developed core features like task management and attendance tracking.
+- Structured the project using modular architecture (models, services, UI).
+- Contributed to feature enhancements and debugging.
 
 ## Features
 
@@ -12,6 +20,14 @@ Zenovate Worknest is a Flutter-based Employee & Intern Management System designe
 - **Performance Reviews**: Submit and view feedback.
 - **Admin Panel**: Generate reports, manage roles, and backup/restore data.
 - **Modern UI**: Responsive, themed interface with navigation drawer.
+
+## Tech Stack
+
+- Flutter.
+- Dart.
+- Shared Preferences.
+- Firebase (planned).
+- MongoDB (planned).
 
 ## Screenshots
 ![Untitled design (8)](https://github.com/user-attachments/assets/259113b8-7b82-4824-86e8-5fc1d0a3e53b)
