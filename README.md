@@ -1,5 +1,5 @@
 # Zenovate Worknest
-Hackathon participated by Rushika Datta, Anurup Datta, Mridul Jindal, Anjali K.
+Hackathon participated by Rushika Datta, Anurup Datta, Mridul Jindal, Anjali K.                                   
 Developed by Rushika Datta, Anurup Datta, Mridul Jindal, Anjali K.
 
 Zenovate Worknest is a Flutter-based Employee & Intern Management System designed for hackathons and rapid prototyping. It provides a modern, Kanban-style interface for managing users, tasks, attendance, and performance reviews.
